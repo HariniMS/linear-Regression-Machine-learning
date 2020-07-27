@@ -1,5 +1,5 @@
 # linear-Regression-Machine-learning
-linear Regression for single variable/feature and multiple features
+### linear Regression for single variable/feature and multiple features
 
 
 we know that Linear regression is a Regression. It expects target feature to be continuous numericals . 
